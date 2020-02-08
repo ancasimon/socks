@@ -1,0 +1,9 @@
+body {
+    background-color: blue;
+}
+
+/* add width for th eimage to make sure it takes up only the entire width of the image parent (in our case - of the cotnainer that take sup 1/3 of the page) */
+
+img {
+    width: 100%;
+}
